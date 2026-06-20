@@ -1,0 +1,291 @@
+{
+  "1": {
+    "id": 1,
+    "name": null,
+    "area": "coastal",
+    "resources": {
+      "food": 135,
+      "wood": 109,
+      "gold": 284,
+      "ore": 20
+    },
+    "population": 500,
+    "president_id": "U0BASSF57CZ",
+    "president_terms": 1,
+    "cycle_start": "2026-06-20T11:42:13.757Z",
+    "cycle_day": 1,
+    "term_start": "2026-06-20T11:42:13.757Z",
+    "members": [
+      "U0BASSF57CZ"
+    ],
+    "trade_exports": [
+      "fish",
+      "salt",
+      "pearls"
+    ],
+    "trade_imports": [
+      "ore",
+      "wood"
+    ],
+    "roles": {
+      "minister_of_economics": {
+        "name": "Minister of Economics",
+        "user_id": null,
+        "custom": true,
+        "permissions": [
+          "economic"
+        ]
+      }
+    }
+  },
+  "2": {
+    "id": 2,
+    "name": null,
+    "area": "plains",
+    "resources": {
+      "food": 150,
+      "wood": 30,
+      "gold": 20,
+      "ore": 10
+    },
+    "population": 500,
+    "president_id": null,
+    "president_terms": 1,
+    "cycle_start": "2026-06-19T23:17:08.745Z",
+    "cycle_day": 1,
+    "term_start": "2026-06-19T23:17:08.745Z",
+    "members": [],
+    "trade_exports": [
+      "food",
+      "grain"
+    ],
+    "trade_imports": [
+      "fish",
+      "ore"
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": null,
+    "area": "mountains",
+    "resources": {
+      "food": 60,
+      "wood": 20,
+      "gold": 50,
+      "ore": 80
+    },
+    "population": 400,
+    "president_id": null,
+    "president_terms": 0,
+    "cycle_start": null,
+    "cycle_day": 0,
+    "term_start": null,
+    "members": [],
+    "trade_exports": [
+      "ore",
+      "gold",
+      "gems"
+    ],
+    "trade_imports": [
+      "food",
+      "wood",
+      "fish"
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": null,
+    "area": "forest",
+    "resources": {
+      "food": 80,
+      "wood": 120,
+      "gold": 15,
+      "ore": 25
+    },
+    "population": 450,
+    "president_id": null,
+    "president_terms": 0,
+    "cycle_start": null,
+    "cycle_day": 0,
+    "term_start": null,
+    "members": [],
+    "trade_exports": [
+      "wood",
+      "herbs",
+      "game"
+    ],
+    "trade_imports": [
+      "ore",
+      "fish",
+      "grain"
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": null,
+    "area": "river",
+    "resources": {
+      "food": 110,
+      "wood": 40,
+      "gold": 25,
+      "ore": 30
+    },
+    "population": 480,
+    "president_id": null,
+    "president_terms": 0,
+    "cycle_start": null,
+    "cycle_day": 0,
+    "term_start": null,
+    "members": [],
+    "trade_exports": [
+      "fish",
+      "food",
+      "water"
+    ],
+    "trade_imports": [
+      "ore",
+      "wood",
+      "gold"
+    ]
+  },
+  "6": {
+    "id": 6,
+    "name": null,
+    "area": "swamp",
+    "resources": {
+      "food": 70,
+      "wood": 60,
+      "gold": 10,
+      "ore": 15
+    },
+    "population": 350,
+    "president_id": null,
+    "president_terms": 0,
+    "cycle_start": null,
+    "cycle_day": 0,
+    "term_start": null,
+    "members": [],
+    "trade_exports": [
+      "herbs",
+      "wood"
+    ],
+    "trade_imports": [
+      "food",
+      "ore",
+      "gold"
+    ]
+  },
+  "7": {
+    "id": 7,
+    "name": null,
+    "area": "tundra",
+    "resources": {
+      "food": 50,
+      "wood": 30,
+      "gold": 20,
+      "ore": 35
+    },
+    "population": 300,
+    "president_id": null,
+    "president_terms": 0,
+    "cycle_start": null,
+    "cycle_day": 0,
+    "term_start": null,
+    "members": [],
+    "trade_exports": [
+      "furs",
+      "ice"
+    ],
+    "trade_imports": [
+      "food",
+      "wood",
+      "ore",
+      "gold"
+    ]
+  },
+  "8": {
+    "id": 8,
+    "name": null,
+    "area": "island",
+    "resources": {
+      "food": 90,
+      "wood": 70,
+      "gold": 40,
+      "ore": 20
+    },
+    "population": 420,
+    "president_id": null,
+    "president_terms": 0,
+    "cycle_start": null,
+    "cycle_day": 0,
+    "term_start": null,
+    "members": [],
+    "trade_exports": [
+      "fish",
+      "coconuts",
+      "spices"
+    ],
+    "trade_imports": [
+      "ore",
+      "wood",
+      "grain"
+    ]
+  },
+  "9": {
+    "id": 9,
+    "name": null,
+    "area": "savanna",
+    "resources": {
+      "food": 85,
+      "wood": 35,
+      "gold": 22,
+      "ore": 18
+    },
+    "population": 400,
+    "president_id": null,
+    "president_terms": 0,
+    "cycle_start": null,
+    "cycle_day": 0,
+    "term_start": null,
+    "members": [],
+    "trade_exports": [
+      "game",
+      "food",
+      "hides"
+    ],
+    "trade_imports": [
+      "ore",
+      "wood",
+      "fish"
+    ]
+  },
+  "10": {
+    "id": 10,
+    "name": null,
+    "area": "desert",
+    "resources": {
+      "food": 40,
+      "wood": 15,
+      "gold": 35,
+      "ore": 25
+    },
+    "population": 250,
+    "president_id": null,
+    "president_terms": 0,
+    "cycle_start": null,
+    "cycle_day": 0,
+    "term_start": null,
+    "members": [],
+    "trade_exports": [
+      "gold",
+      "spices"
+    ],
+    "trade_imports": [
+      "food",
+      "wood",
+      "ore",
+      "fish",
+      "water"
+    ]
+  }
+}

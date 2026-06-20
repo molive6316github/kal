@@ -1,0 +1,62 @@
+{
+  "1": {
+    "nation_id": 1,
+    "applications": [],
+    "votes": {},
+    "history": []
+  },
+  "2": {
+    "nation_id": 2,
+    "applications": [],
+    "votes": {},
+    "history": []
+  },
+  "3": {
+    "nation_id": 3,
+    "applications": [],
+    "votes": {},
+    "history": []
+  },
+  "4": {
+    "nation_id": 4,
+    "applications": [],
+    "votes": {},
+    "history": []
+  },
+  "5": {
+    "nation_id": 5,
+    "applications": [],
+    "votes": {},
+    "history": []
+  },
+  "6": {
+    "nation_id": 6,
+    "applications": [],
+    "votes": {},
+    "history": []
+  },
+  "7": {
+    "nation_id": 7,
+    "applications": [],
+    "votes": {},
+    "history": []
+  },
+  "8": {
+    "nation_id": 8,
+    "applications": [],
+    "votes": {},
+    "history": []
+  },
+  "9": {
+    "nation_id": 9,
+    "applications": [],
+    "votes": {},
+    "history": []
+  },
+  "10": {
+    "nation_id": 10,
+    "applications": [],
+    "votes": {},
+    "history": []
+  }
+}

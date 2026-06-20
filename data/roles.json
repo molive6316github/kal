@@ -1,0 +1,19 @@
+{
+  "premade": {
+    "vice_president": {
+      "name": "Vice President",
+      "description": "Second in command",
+      "permissions": ["manage_members", "propose_trade"]
+    },
+    "general": {
+      "name": "General",
+      "description": "Controls military",
+      "permissions": ["declare_war", "manage_military"]
+    },
+    "treasurer": {
+      "name": "Treasurer",
+      "description": "Manages trades and resources",
+      "permissions": ["propose_trade", "manage_resources"]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "U0BASSF57CZ": {
+    "user_id": "U0BASSF57CZ",
+    "username": "maxoliver.org",
+    "nation_id": "1",
+    "role": "president",
+    "admin": true,
+    "joined_date": "2026-06-20T11:42:13.760Z",
+    "personal_resources": {
+      "food": 6,
+      "wood": 0,
+      "gold": 0,
+      "ore": 0
+    },
+    "stats": {
+      "influence": 4
+    },
+    "cooldowns": {
+      "work": null,
+      "explore": "2026-06-20T16:39:07.362Z",
+      "train": "2026-06-20T16:38:21.059Z"
+    }
+  }
+}

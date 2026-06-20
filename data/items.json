@@ -1,0 +1,138 @@
+{
+  "fish": {
+    "name": "Fish",
+    "rarity": "common",
+    "base_value": 10,
+    "current_value": 10,
+    "last_updated": "2026-06-19T00:00:00Z",
+    "value_history": []
+  },
+  "salt": {
+    "name": "Salt",
+    "rarity": "common",
+    "base_value": 8,
+    "current_value": 8,
+    "last_updated": "2026-06-19T00:00:00Z",
+    "value_history": []
+  },
+  "pearls": {
+    "name": "Pearls",
+    "rarity": "rare",
+    "base_value": 50,
+    "current_value": 50,
+    "last_updated": "2026-06-19T00:00:00Z",
+    "value_history": []
+  },
+  "food": {
+    "name": "Food",
+    "rarity": "common",
+    "base_value": 12,
+    "current_value": 12,
+    "last_updated": "2026-06-19T00:00:00Z",
+    "value_history": []
+  },
+  "grain": {
+    "name": "Grain",
+    "rarity": "common",
+    "base_value": 10,
+    "current_value": 10,
+    "last_updated": "2026-06-19T00:00:00Z",
+    "value_history": []
+  },
+  "ore": {
+    "name": "Ore",
+    "rarity": "uncommon",
+    "base_value": 25,
+    "current_value": 25,
+    "last_updated": "2026-06-19T00:00:00Z",
+    "value_history": []
+  },
+  "gold": {
+    "name": "Gold",
+    "rarity": "rare",
+    "base_value": 100,
+    "current_value": 100,
+    "last_updated": "2026-06-19T00:00:00Z",
+    "value_history": []
+  },
+  "gems": {
+    "name": "Gems",
+    "rarity": "very_rare",
+    "base_value": 150,
+    "current_value": 150,
+    "last_updated": "2026-06-19T00:00:00Z",
+    "value_history": []
+  },
+  "wood": {
+    "name": "Wood",
+    "rarity": "common",
+    "base_value": 15,
+    "current_value": 15,
+    "last_updated": "2026-06-19T00:00:00Z",
+    "value_history": []
+  },
+  "herbs": {
+    "name": "Herbs",
+    "rarity": "uncommon",
+    "base_value": 20,
+    "current_value": 20,
+    "last_updated": "2026-06-19T00:00:00Z",
+    "value_history": []
+  },
+  "game": {
+    "name": "Game",
+    "rarity": "common",
+    "base_value": 14,
+    "current_value": 14,
+    "last_updated": "2026-06-19T00:00:00Z",
+    "value_history": []
+  },
+  "water": {
+    "name": "Water",
+    "rarity": "common",
+    "base_value": 5,
+    "current_value": 5,
+    "last_updated": "2026-06-19T00:00:00Z",
+    "value_history": []
+  },
+  "furs": {
+    "name": "Furs",
+    "rarity": "uncommon",
+    "base_value": 35,
+    "current_value": 35,
+    "last_updated": "2026-06-19T00:00:00Z",
+    "value_history": []
+  },
+  "ice": {
+    "name": "Ice",
+    "rarity": "common",
+    "base_value": 7,
+    "current_value": 7,
+    "last_updated": "2026-06-19T00:00:00Z",
+    "value_history": []
+  },
+  "coconuts": {
+    "name": "Coconuts",
+    "rarity": "common",
+    "base_value": 11,
+    "current_value": 11,
+    "last_updated": "2026-06-19T00:00:00Z",
+    "value_history": []
+  },
+  "spices": {
+    "name": "Spices",
+    "rarity": "uncommon",
+    "base_value": 30,
+    "current_value": 30,
+    "last_updated": "2026-06-19T00:00:00Z",
+    "value_history": []
+  },
+  "hides": {
+    "name": "Hides",
+    "rarity": "common",
+    "base_value": 16,
+    "current_value": 16,
+    "last_updated": "2026-06-19T00:00:00Z",
+    "value_history": []
+  }
+}
